@@ -34,7 +34,7 @@ This project demonstrates a simple, low-cost **digital thermometer** capable of 
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](circuit.png)
+![Circuit Diagram](circuit.jpeg)
 
 
 ---
