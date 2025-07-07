@@ -36,7 +36,6 @@ This project demonstrates a simple, low-cost **digital thermometer** capable of 
 
 ![Circuit Diagram](circuit.jpeg)
 
-
 ---
 
 ## ✅ Features
@@ -54,7 +53,3 @@ This project demonstrates a simple, low-cost **digital thermometer** capable of 
 - You can use a **silicon diode** (like 1N4148) in place of the BC108 transistor.
 - The meter used can be **analog** or **digital**.
 - Calibration can be done using **ice water** (0°C) and **boiling water** (100°C).
-
----
-
-
